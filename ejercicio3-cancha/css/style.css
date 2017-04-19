@@ -1,15 +1,15 @@
 #container {
 	background-color: #7cbb7d;
-	width: 900px;
-	height: 400px;
+	width: 820px;
+  height: 450px;
   position: relative;
 }
 
 #borde {
   position: absolute;
 	border: 1px solid #fff;
-	width: 850px;
-	height: 350px;
+	width: 778px;
+  height: 408px;
   margin: 20px;
 
 }
@@ -17,12 +17,12 @@
 .porteria {
   position: absolute;
 	border: .5px solid #fff;
-	width: 100px;
-	height: 200px;
+	width: 110px;
+	height: 258px;
 }
 
 #derecha{
-  margin-left: 749px;
+	margin-left: 667px;
   margin-top: 73px;
 }
 
@@ -31,11 +31,33 @@
 }
 
 #mediaCancha {
-  position: absolute;
+	position: absolute;
 	border-radius: 50%;
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	border: 1px solid #fff;
-  margin-top: 120px;
-  margin-left: 381px;
+	margin-top: 120px;
+	margin-left: 314px;
+}
+
+.balon{
+	width: 30px;
+	box-shadow: 2px 2px 5px #999;
+	height: 30px;
+	border: solid 2px #fff;
+	border-radius: 50%;
+	background-color: #fff;
+}
+
+.a{
+	margin-left: 92px;
+}
+
+.b{
+	margin-top: -75px;
+}
+
+.c{
+	margin-top: 225px;
+	margin-left: -30px;
 }
