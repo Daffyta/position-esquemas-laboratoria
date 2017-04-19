@@ -1,0 +1,36 @@
+h1{
+  font-size: 45px;
+  margin-left: 120px;
+  margin-bottom: 6px;
+}
+
+.smallLine{
+  width: 200px;
+  height: 0px;
+  border: solid 5px black;
+  border-radius: 10px;
+  margin-left: 120px;
+  margin-bottom: 20px;
+}
+
+#photos{
+  position: relative;
+  left: 35px;
+  margin-left: 80px;
+}
+
+.img{
+  display: inline-block;
+}
+
+img{
+  width: 300px;
+  margin: 20px;
+}
+
+span{
+  position:absolute;
+  margin: 300px 190px;
+  color: #fff;
+  font-size: 17px;
+}
